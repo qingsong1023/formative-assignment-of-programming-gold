@@ -1,0 +1,93 @@
+body{
+    background-color: blanchedalmond;
+    background-image: url("qingmingshanghetu.jpg");
+    background-repeat: repeat-x;
+    background-size: 350px 250px;
+}
+
+h1{
+    color: gold;
+    font-size: 150px;
+    font-weight: 1000;
+    line-height: 0cm;
+    font-style: oblique;
+}
+
+h2{
+    font-size: xx-large;
+    color: gold;
+}
+
+h3{
+    font-weight: 900;
+    font-size: xx-large;
+    color: gold;
+}
+
+P1,P2,p3{
+    color: chocolate;
+    font-size: large;
+    font-style: oblique;
+}
+
+*{
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.nav{
+    height: 50px;
+    background: linear-gradient(orange,gold);
+}
+
+.navlist li{
+    float: left;
+    height: 40px;
+    width: 140px;
+    line-height: 50px;
+    text-align: center;
+    font-weight: 1000;
+    font-style: italic;
+    font-size: larger;
+}
+
+.navlist a{
+    color: black;
+}
+
+.placeholder{
+    margin-left: 1200px;
+    margin-top: 20px;
+    width: 445px;
+    height: 36px;
+}
+
+#Box{
+    width: 350px;
+    height: 400px;
+    background-color: gold;
+    float: left;
+    margin-left: 150px;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    margin-left: 100px;
+    margin-left: 3px;
+}
+
+div{
+    font-size: medium;
+    font-style: oblique;
+    color: saddlebrown;
+}
+
+label{
+    font-size: xx-large;
+}
+
+input{
+    font-size: xx-large;
+}
